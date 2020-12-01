@@ -11,7 +11,7 @@ Content
 * **style.css**-this files contain all the style for clock watch navigation bar and footer.
 * **main.js**-this is javascript file which contain all callback  of each function of pomodoro timer we have used modules and imported all function from other javascript files into it. and also hamburger icon processing is done in this file.
 
-# DEMO 
+# DEMO : https://dishant45.github.io/Pomodoro-Technique-Timer/index.html
 <img src='./images/pomodorodemo.jpeg'>
 
 
